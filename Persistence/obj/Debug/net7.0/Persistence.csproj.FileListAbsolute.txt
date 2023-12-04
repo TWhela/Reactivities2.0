@@ -1,0 +1,47 @@
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.sourcelink.json
+C:\code\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\code\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\code\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\code\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+C:\code\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.sourcelink.json
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\code\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\code\Reactivities2.0\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\code\Reactivities2.0\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\code\Reactivities2.0\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\code\Reactivities2.0\Persistence\bin\Debug\net7.0\Domain.dll
+C:\code\Reactivities2.0\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\code\Reactivities2.0\Persistence\obj\Debug\net7.0\ref\Persistence.dll

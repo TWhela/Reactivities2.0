@@ -69,3 +69,4 @@ C:\Users\thoma\Documents\repos\Reactivities2.0\Application\obj\Debug\net7.0\Appl
 C:\Users\thoma\Documents\repos\Reactivities2.0\Application\obj\Debug\net7.0\refint\Application.dll
 C:\Users\thoma\Documents\repos\Reactivities2.0\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\thoma\Documents\repos\Reactivities2.0\Application\obj\Debug\net7.0\ref\Application.dll
+C:\code\Reactivities2.0\Application\obj\Debug\net7.0\Application.sourcelink.json

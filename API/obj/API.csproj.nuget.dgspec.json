@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\api\\API.csproj": {}
+    "C:\\code\\Reactivities2.0\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\api\\API.csproj": {
+    "C:\\code\\Reactivities2.0\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\api\\API.csproj",
+        "projectUniqueName": "C:\\code\\Reactivities2.0\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\api\\API.csproj",
-        "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\api\\obj\\",
+        "projectPath": "C:\\code\\Reactivities2.0\\api\\API.csproj",
+        "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\Reactivities2.0\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Application\\Application.csproj"
+              "C:\\code\\Reactivities2.0\\Application\\Application.csproj": {
+                "projectPath": "C:\\code\\Reactivities2.0\\Application\\Application.csproj"
               }
             }
           }
@@ -68,24 +70,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -98,33 +82,35 @@
         }
       }
     },
-    "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Application\\Application.csproj": {
+    "C:\\code\\Reactivities2.0\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\code\\Reactivities2.0\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Application\\obj\\",
+        "projectPath": "C:\\code\\Reactivities2.0\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\Reactivities2.0\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj"
+              "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\Persistence.csproj"
+              "C:\\code\\Reactivities2.0\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\code\\Reactivities2.0\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -143,6 +129,10 @@
               "target": "Package",
               "version": "[12.0.1, )"
             },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.1.1, )"
@@ -159,20 +149,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -182,22 +158,24 @@
         }
       }
     },
-    "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj": {
+    "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\obj\\",
+        "projectPath": "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\Reactivities2.0\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -226,20 +204,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -249,30 +213,32 @@
         }
       }
     },
-    "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\Persistence.csproj": {
+    "C:\\code\\Reactivities2.0\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\code\\Reactivities2.0\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\obj\\",
+        "projectPath": "C:\\code\\Reactivities2.0\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\Reactivities2.0\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj"
+              "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj"
               }
             }
           }
@@ -303,20 +269,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

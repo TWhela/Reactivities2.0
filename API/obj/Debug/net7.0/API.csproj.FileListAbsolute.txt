@@ -317,3 +317,7 @@ C:\Users\thoma\Documents\repos\Reactivities2.0\api\obj\Debug\net7.0\refint\API.d
 C:\Users\thoma\Documents\repos\Reactivities2.0\api\obj\Debug\net7.0\API.pdb
 C:\Users\thoma\Documents\repos\Reactivities2.0\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\thoma\Documents\repos\Reactivities2.0\API\obj\Debug\net7.0\ref\API.dll
+C:\code\Reactivities2.0\api\obj\Debug\net7.0\API.sourcelink.json
+C:\code\Reactivities2.0\api\bin\Debug\net7.0\FluentValidation.dll
+C:\code\Reactivities2.0\api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\code\Reactivities2.0\api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

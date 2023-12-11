@@ -1155,32 +1155,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thoma\\.nuget\\packages\\": {}
+    "C:\\Users\\ThomasWhelan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\code\\Reactivities2.0\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Persistence\\obj\\",
+      "projectPath": "C:\\code\\Reactivities2.0\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\Reactivities2.0\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\thoma\\Documents\\repos\\Reactivities2.0\\Domain\\Domain.csproj"
+            "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\code\\Reactivities2.0\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1211,20 +1213,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

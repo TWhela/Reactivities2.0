@@ -45,3 +45,4 @@ C:\Users\thoma\Documents\repos\Reactivities2.0\Domain\obj\Debug\net7.0\Domain.dl
 C:\Users\thoma\Documents\repos\Reactivities2.0\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\thoma\Documents\repos\Reactivities2.0\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\thoma\Documents\repos\Reactivities2.0\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\code\Reactivities2.0\Domain\obj\Debug\net7.0\Domain.sourcelink.json

@@ -322,3 +322,5 @@ C:\code\Reactivities2.0\api\bin\Debug\net7.0\FluentValidation.dll
 C:\code\Reactivities2.0\api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\code\Reactivities2.0\api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\code\Reactivities2.0\api\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\code\Reactivities2.0\API\bin\Debug\net7.0\Npgsql.dll
+C:\code\Reactivities2.0\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

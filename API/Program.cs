@@ -24,7 +24,12 @@ app.UseCors("CorsPolicy");
 
 app.UseAuthorization();
 
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 app.MapControllers();
+//<Chathub>
+app.MapFallbackToController("Index", "Fallback");
 
 //Creating database
 using var scope = app.Services.CreateScope();

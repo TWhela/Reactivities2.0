@@ -213,6 +213,32 @@
         }
       },
       "Microsoft.Extensions.Primitives/7.0.0": {},
+      "Npgsql/7.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "7.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/Npgsql.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "Npgsql.EntityFrameworkCore.PostgreSQL/7.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.14",
+          "Microsoft.EntityFrameworkCore.Abstractions": "7.0.14",
+          "Microsoft.EntityFrameworkCore.Relational": "7.0.14",
+          "Npgsql": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
       "SQLitePCLRaw.bundle_e_sqlite3/2.1.4": {
         "dependencies": {
           "SQLitePCLRaw.lib.e_sqlite3": "2.1.4",
@@ -367,6 +393,7 @@
         }
       },
       "System.Memory/4.5.3": {},
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "System.Text.Encodings.Web/7.0.0": {},
       "System.Text.Json/7.0.0": {
         "dependencies": {
@@ -381,7 +408,8 @@
       "Persistence/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore.Sqlite": "7.0.14"
+          "Microsoft.EntityFrameworkCore.Sqlite": "7.0.14",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0"
         },
         "runtime": {
           "Persistence.dll": {}
@@ -570,6 +598,20 @@
       "path": "microsoft.extensions.primitives/7.0.0",
       "hashPath": "microsoft.extensions.primitives.7.0.0.nupkg.sha512"
     },
+    "Npgsql/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tOBFksJZ2MiEz8xtDUgS5IG19jVO3nSP15QDYWiiGpXHe0PsLoQBts2Sg3hHKrrLTuw+AjsJz9iKvvGNHyKDIg==",
+      "path": "npgsql/7.0.0",
+      "hashPath": "npgsql.7.0.0.nupkg.sha512"
+    },
+    "Npgsql.EntityFrameworkCore.PostgreSQL/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CyUNlFZmtX2Kmw8XK5Tlx5eVUCzWJ+zJHErxZiMo2Y8zCRuH9+/OMGwG+9Mmp5zD5p3Ifbi5Pp3btsqoDDkSZQ==",
+      "path": "npgsql.entityframeworkcore.postgresql/7.0.0",
+      "hashPath": "npgsql.entityframeworkcore.postgresql.7.0.0.nupkg.sha512"
+    },
     "SQLitePCLRaw.bundle_e_sqlite3/2.1.4": {
       "type": "package",
       "serviceable": true,
@@ -604,6 +646,13 @@
       "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
       "path": "system.memory/4.5.3",
       "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "System.Text.Encodings.Web/7.0.0": {
       "type": "package",
